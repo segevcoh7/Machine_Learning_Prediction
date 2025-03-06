@@ -6,8 +6,8 @@ This project focuses on predicting house prices using **machine learning techniq
 ## 📂 Project Structure
 - `notebooks/` - Contains Jupyter notebooks for data analysis and modeling.
 - `reports/` - Includes project summary, documentation, and presentation files.
-- `data/` - Stores dataset files and submission results.
-- `src/` - Contains Python scripts for preprocessing and modeling.
+- `code/` - Stores the final code for the predictions.
+- `submittion/` - Contains the final predictions for housing prices.
 - `README.md` - Project introduction.
 
 ## 📊 Model Performance
